@@ -3,4 +3,5 @@ Site HTML com funcionalidades /
 Opcoes de veiculos em estoque na pagina inicial com links clicaveis / 
 Pequeno formulario para responder perguntas no final da pagina inicial /
 Adicionado botao de voltar em todas as paginas/falar com vendedor / 
-Alterada a logomarca da pagina inicial
+Alterada a logomarca da pagina inicial / 
+Removido todo CSS usado para testes
